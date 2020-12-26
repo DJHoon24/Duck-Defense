@@ -1,7 +1,7 @@
 # Duck-Defense
 <p align= "center">
   <img src= "DuckDefense/assets/menu.PNG" alt= "Duck-Defense Home Screen" width= "1200">
-  <h1 align= "center">Defend the city with the help of some mighty ducks!/h1>
+  <h1 align= "center">Defend the city with the help of some mighty ducks! </h1>
  </p>
 
 Duck Defense is a Tower Defense Game with all sorts of towers with different abilities!
